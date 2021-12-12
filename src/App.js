@@ -1,9 +1,9 @@
 import './App.css';
 import ButtonAppBar from './ButtonAppBar';
 import CardMedia from '@mui/material/CardMedia';
-import flowers from './homepagedoodle.png';
-import omnomnomz from './cover images for case studies/omnomnomz.jpg';
-import nimbus from './cover images for case studies/nimbusnotesmockup.jpg';
+import flowers from './flowers.png';
+import omnomnomz from './caseStudyImages/omnomnomz.jpg';
+import nimbus from './caseStudyImages/nimbusnotesmockup.jpg';
 import Grid from '@mui/material/Grid';
 import { Typography } from '@mui/material';
 import Button from '@mui/material/Button';

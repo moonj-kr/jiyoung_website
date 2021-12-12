@@ -11,9 +11,7 @@ function AboutMe() {
 
     <Box m={10}>
 
-    test
     </Box>
-
 
     </div>
   );

@@ -5,9 +5,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import CardMedia from '@mui/material/CardMedia';
-import logo from './logo-01.png';
-import AboutMe from './AboutMe';
-import { Link } from 'react-router-dom';
+import logo from './logo.png';
 
 
 export default function ButtonAppBar() {
